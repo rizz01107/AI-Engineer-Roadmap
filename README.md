@@ -1,23 +1,23 @@
 # 🚀 AI Engineer Roadmap
 
-Welcome to my AI Engineer journey!
+Welcome to my AI Engineer learning journey!
 
 This repository documents my progress through a structured **5-month roadmap**, starting from **Python fundamentals** and advancing to **Machine Learning, Deep Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Model Context Protocol (MCP), and Production Deployment**.
 
-The objective is to become a **Production-Ready AI Engineer** by building real-world projects, writing clean code, and documenting every step of the learning journey.
+The goal is to become a **Production-Ready AI Engineer** by learning through hands-on projects, writing clean code, and building a strong GitHub portfolio.
 
 ---
 
-# 🎯 Goal
+## 🎯 Goal
 
 Become a **Production-Ready AI Engineer** by:
 
 - Mastering Python from scratch
-- Building real-world AI projects
+- Building real-world AI applications
 - Learning Machine Learning & Deep Learning
 - Working with LLMs and AI Agents
-- Deploying production-ready applications
-- Building a strong GitHub portfolio
+- Deploying AI applications
+- Building a professional GitHub portfolio
 
 ---
 
@@ -25,17 +25,22 @@ Become a **Production-Ready AI Engineer** by:
 
 ## 📌 Phase 0 – Python + Math + Computer Science
 
-- Python Fundamentals
-- Data Types
-- Conditionals & Loops
-- Functions
+- ✅ Python Fundamentals
+- ✅ Data Types
+- ✅ Operators
+- ✅ Strings
+- ✅ Conditionals & Loops
+- ✅ Lists
+- ✅ Tuples
+- ✅ Sets
+- ✅ Dictionaries
+- 🔄 Functions (Next)
 - Object-Oriented Programming
 - File Handling
 - Exception Handling
 - NumPy
 - Pandas
 - Git & GitHub
-- VS Code
 - Linux Basics
 
 ---
@@ -83,7 +88,7 @@ Become a **Production-Ready AI Engineer** by:
 - Tool Calling
 - LangGraph
 - CrewAI
-- Model Context Protocol (MCP)
+- MCP
 - Multi-Agent Systems
 - Observability
 - Deployment
@@ -120,36 +125,38 @@ AI-Engineer-Roadmap/
 
 # 🛠️ Tech Stack
 
-## Programming
+### Programming
 
 - Python
 
-## Data Science
+### Data Science
 
 - NumPy
 - Pandas
 - Matplotlib
 
-## Machine Learning
+### Machine Learning
 
 - Scikit-learn
 - PyTorch
 
-## LLM & AI
+### LLM Engineering
 
+- OpenAI
+- Google Gemini
+- Anthropic
 - Hugging Face
 - LangChain
 - LlamaIndex
-- LangGraph
 - ChromaDB
 - Pinecone
 
-## Backend
+### Backend
 
 - FastAPI
 - Docker
 
-## Development Tools
+### Tools
 
 - Git
 - GitHub
@@ -163,8 +170,8 @@ AI-Engineer-Roadmap/
 
 - [x] Day 1 – Python Basics
 - [x] Day 2 – Conditionals & Loops
-- [ ] Day 3 – Lists, Tuples, Sets & Dictionaries
-- [ ] Day 4 – Functions
+- [x] Day 3 – Lists, Tuples, Sets & Dictionaries
+- [ ] Day 4 – Functions & Modules
 - [ ] Day 5 – Object-Oriented Programming
 - [ ] Day 6 – File Handling & Exception Handling
 - [ ] Day 7 – CLI Calculator Project
@@ -181,28 +188,33 @@ AI-Engineer-Roadmap/
 | RAG Engineering | ⚪ Not Started |
 | AI Agents | ⚪ Not Started |
 
-### Completion
+### ✅ Completed
 
-- ✅ Week 1 Day 1 Completed
-- ✅ Week 1 Day 2 Completed
+- Week 1 Day 1
+- Week 1 Day 2
+- Week 1 Day 3
 
-**Overall Progress:** **10%** 🚀
+**Overall Progress:** **15% 🚀**
 
 ---
 
 # 🚀 Portfolio Projects
 
-Projects will be added as I progress through the roadmap.
-
-### Planned Projects
+### Completed
 
 - ✅ CLI Calculator
+- ✅ Number Guessing Game
+- ✅ Student Database
+- ✅ Contact Book
+
+### Upcoming
+
 - 📊 Dataset Explorer
 - 🏠 House Price Predictor
 - 🖼️ CNN Image Classifier
-- 🤖 Multi-Provider AI Chatbot
+- 🤖 AI Chatbot
 - 🔍 Semantic Search Engine
-- 📄 Document RAG Application
+- 📄 Document RAG
 - 🧠 Multi-Agent Research Assistant
 - ⚡ Custom MCP Server
 
@@ -223,27 +235,41 @@ Projects will be added as I progress through the roadmap.
 # 💡 Learning Principles
 
 - Learn by building projects
-- Write clean, readable code
-- Follow software engineering best practices
-- Commit code consistently
-- Document progress regularly
+- Write clean and readable code
+- Commit code every day
+- Focus on consistency
+- Document everything
 - Build production-ready AI applications
 
 ---
 
 # 🎯 Current Focus
 
-📌 **Week 1 – Python Foundations**
+📌 **Week 1 – Day 4**
 
-Current Topics:
+### Learning Next
 
-- ✅ Variables & Data Types
-- ✅ Operators
-- ✅ Strings
-- ✅ Input & Output
-- ✅ Conditionals
-- ✅ Loops
-- 🔄 Next: Lists, Tuples, Sets & Dictionaries
+- Functions
+- Function Parameters
+- Return Values
+- Variable Scope
+- Modules
+- Import Statements
+
+---
+
+# 📊 Repository Status
+
+- 🚀 Active Development
+- 📅 Updated Daily
+- 💻 Beginner to Production AI Journey
+- ⭐ Open Source Learning Repository
+
+---
+
+# 🤝 Connect With Me
+
+**GitHub:** https://github.com/rizz01107
 
 ---
 
@@ -251,14 +277,8 @@ Current Topics:
 
 If you find this repository helpful, consider giving it a **Star ⭐**.
 
-Your support motivates me to continue documenting my AI Engineering journey.
+It motivates me to continue documenting my AI Engineering journey.
 
 ---
 
-## 📌 Repository Status
-
-**🚀 Currently Learning | Updated Daily | Open Source**
-
----
-
-**Happy Coding! 🚀**
+## 🚀 Happy Coding!
