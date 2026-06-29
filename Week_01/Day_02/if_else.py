@@ -1,5 +1,5 @@
 print("=" * 40)
-print("AGE ELIGIBILITY CHECKER")
+print("     AGE ELIGIBILITY CHECKER")
 print("=" * 40)
 
 age = int(input("Enter your age: "))
