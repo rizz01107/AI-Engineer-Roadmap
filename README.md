@@ -269,7 +269,11 @@ AI-Engineer-Roadmap/
 
 # 🤝 Connect With Me
 
-**GitHub:** https://github.com/rizz01107
+[![GitHub](https://img.shields.io/badge/GitHub-rizz01107-black?style=for-the-badge&logo=github)](https://github.com/rizz01107)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rizz01107-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rizz01107)
+
+[![Email](https://img.shields.io/badge/Email-rizwan01107@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rizwan01107@gmail.com)
 
 ---
 
