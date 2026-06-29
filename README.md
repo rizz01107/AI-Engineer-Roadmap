@@ -2,9 +2,9 @@
 
 Welcome to my AI Engineer journey!
 
-This repository documents my progress through a structured **5-month roadmap**, starting from **Python fundamentals** and progressing to **Machine Learning, Deep Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Model Context Protocol (MCP), and production deployment**.
+This repository documents my progress through a structured **5-month roadmap**, starting from **Python fundamentals** and advancing to **Machine Learning, Deep Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Model Context Protocol (MCP), and Production Deployment**.
 
-The goal is not just to learn AI, but to build real-world, production-ready AI applications while maintaining clean code, proper documentation, and consistent GitHub commits.
+The objective is to become a **Production-Ready AI Engineer** by building real-world projects, writing clean code, and documenting every step of the learning journey.
 
 ---
 
@@ -12,11 +12,12 @@ The goal is not just to learn AI, but to build real-world, production-ready AI a
 
 Become a **Production-Ready AI Engineer** by:
 
-- Learning AI from scratch
-- Building real-world projects
-- Writing clean and maintainable code
-- Following software engineering best practices
-- Creating a strong GitHub portfolio
+- Mastering Python from scratch
+- Building real-world AI projects
+- Learning Machine Learning & Deep Learning
+- Working with LLMs and AI Agents
+- Deploying production-ready applications
+- Building a strong GitHub portfolio
 
 ---
 
@@ -35,7 +36,7 @@ Become a **Production-Ready AI Engineer** by:
 - Pandas
 - Git & GitHub
 - VS Code
-- Basic Linux
+- Linux Basics
 
 ---
 
@@ -47,8 +48,8 @@ Become a **Production-Ready AI Engineer** by:
 - Clustering
 - Feature Engineering
 - Model Evaluation
-- PyTorch
 - Deep Learning
+- PyTorch
 
 ---
 
@@ -95,44 +96,46 @@ Become a **Production-Ready AI Engineer** by:
 ```text
 AI-Engineer-Roadmap/
 │
-├── Week-01/
-│   ├── Day-01/
-│   ├── Day-02/
-│   ├── Day-03/
-│   ├── Day-04/
-│   ├── Day-05/
-│   ├── Day-06/
-│   └── Day-07/
+├── README.md
 │
-├── Week-02/
-├── Week-03/
-├── Week-04/
+├── Week_01/
+│   ├── Day_01/
+│   ├── Day_02/
+│   ├── Day_03/
+│   ├── Day_04/
+│   ├── Day_05/
+│   ├── Day_06/
+│   └── Day_07/
+│
+├── Week_02/
+├── Week_03/
+├── Week_04/
 │
 ├── Projects/
 │
-└── README.md
+└── Resources/
 ```
 
 ---
 
-# 🛠️ Technologies
+# 🛠️ Tech Stack
 
-### Programming
+## Programming
 
 - Python
 
-### Data Science
+## Data Science
 
 - NumPy
 - Pandas
 - Matplotlib
 
-### Machine Learning
+## Machine Learning
 
 - Scikit-learn
 - PyTorch
 
-### LLM & AI
+## LLM & AI
 
 - Hugging Face
 - LangChain
@@ -141,12 +144,12 @@ AI-Engineer-Roadmap/
 - ChromaDB
 - Pinecone
 
-### Backend
+## Backend
 
 - FastAPI
 - Docker
 
-### Tools
+## Development Tools
 
 - Git
 - GitHub
@@ -156,15 +159,34 @@ AI-Engineer-Roadmap/
 
 # 📅 Weekly Progress
 
-## Week 1 – Python Foundations
+## ✅ Week 1 – Python Foundations
 
 - [x] Day 1 – Python Basics
-- [ ] Day 2 – Conditionals & Loops
+- [x] Day 2 – Conditionals & Loops
 - [ ] Day 3 – Lists, Tuples, Sets & Dictionaries
 - [ ] Day 4 – Functions
 - [ ] Day 5 – Object-Oriented Programming
 - [ ] Day 6 – File Handling & Exception Handling
 - [ ] Day 7 – CLI Calculator Project
+
+---
+
+# 📈 Current Progress
+
+| Phase | Status |
+|--------|--------|
+| Python Fundamentals | 🟢 In Progress |
+| Machine Learning | ⚪ Not Started |
+| LLM Engineering | ⚪ Not Started |
+| RAG Engineering | ⚪ Not Started |
+| AI Agents | ⚪ Not Started |
+
+### Completion
+
+- ✅ Week 1 Day 1 Completed
+- ✅ Week 1 Day 2 Completed
+
+**Overall Progress:** **10%** 🚀
 
 ---
 
@@ -174,15 +196,15 @@ Projects will be added as I progress through the roadmap.
 
 ### Planned Projects
 
-- CLI Calculator
-- Dataset Explorer
-- House Price Predictor
-- Image Classifier (CNN)
-- Multi-Provider AI Chatbot
-- Semantic Search Engine
-- Document RAG Application
-- Multi-Agent Research Assistant
-- Custom MCP Server
+- ✅ CLI Calculator
+- 📊 Dataset Explorer
+- 🏠 House Price Predictor
+- 🖼️ CNN Image Classifier
+- 🤖 Multi-Provider AI Chatbot
+- 🔍 Semantic Search Engine
+- 📄 Document RAG Application
+- 🧠 Multi-Agent Research Assistant
+- ⚡ Custom MCP Server
 
 ---
 
@@ -202,18 +224,26 @@ Projects will be added as I progress through the roadmap.
 
 - Learn by building projects
 - Write clean, readable code
-- Commit code regularly
-- Focus on consistency over speed
-- Document everything
+- Follow software engineering best practices
+- Commit code consistently
+- Document progress regularly
 - Build production-ready AI applications
 
 ---
 
-# 📈 Current Progress
+# 🎯 Current Focus
 
-- ✅ Phase 0 Started
-- ✅ Week 1 Day 1 Completed
-- 🚀 Learning in Progress...
+📌 **Week 1 – Python Foundations**
+
+Current Topics:
+
+- ✅ Variables & Data Types
+- ✅ Operators
+- ✅ Strings
+- ✅ Input & Output
+- ✅ Conditionals
+- ✅ Loops
+- 🔄 Next: Lists, Tuples, Sets & Dictionaries
 
 ---
 
@@ -221,7 +251,13 @@ Projects will be added as I progress through the roadmap.
 
 If you find this repository helpful, consider giving it a **Star ⭐**.
 
-It motivates me to continue documenting my AI Engineering journey.
+Your support motivates me to continue documenting my AI Engineering journey.
+
+---
+
+## 📌 Repository Status
+
+**🚀 Currently Learning | Updated Daily | Open Source**
 
 ---
 
