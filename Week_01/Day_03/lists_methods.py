@@ -25,6 +25,8 @@ print(list)
 print(list.copy())
 print(list)
 
+# Practice Project
+
 print("="*40)
 print("        Mini Project")
 print("="*40)

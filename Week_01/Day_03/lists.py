@@ -1,3 +1,13 @@
+"""
+LIST: 
+    Learn
+        Creating Lists
+        Indexing
+        Slicing
+        Updating
+        Removing
+        Looping
+"""
 fruits = ["apple", "banana", "Orange"]
 
 print(fruits)

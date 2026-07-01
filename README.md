@@ -4,29 +4,31 @@ Welcome to my AI Engineer learning journey!
 
 This repository documents my progress through a structured **5-month roadmap**, starting from **Python fundamentals** and advancing to **Machine Learning, Deep Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Model Context Protocol (MCP), and Production Deployment**.
 
-The goal is to become a **Production-Ready AI Engineer** by learning through hands-on projects, writing clean code, and building a strong GitHub portfolio.
+The goal is to become a **Production-Ready AI Engineer** by learning through hands-on projects, writing clean, maintainable code, and building a strong GitHub portfolio.
 
 ---
 
-## 🎯 Goal
+# 🎯 Goal
 
 Become a **Production-Ready AI Engineer** by:
 
 - Mastering Python from scratch
+- Learning Computer Science fundamentals
 - Building real-world AI applications
-- Learning Machine Learning & Deep Learning
-- Working with LLMs and AI Agents
-- Deploying AI applications
-- Building a professional GitHub portfolio
+- Mastering Machine Learning & Deep Learning
+- Learning LLM Engineering & RAG
+- Building AI Agents & MCP Servers
+- Deploying AI applications to production
+- Creating a professional GitHub portfolio
 
 ---
 
-# 🗺️ Learning Roadmap
+# 🗺️ 5-Month Roadmap
 
-## 📌 Phase 0 – Python + Math + Computer Science
+## 📌 Phase 0 — Python + Math + Computer Science
 
 - ✅ Python Fundamentals
-- ✅ Data Types
+- ✅ Variables & Data Types
 - ✅ Operators
 - ✅ Strings
 - ✅ Conditionals & Loops
@@ -34,18 +36,20 @@ Become a **Production-Ready AI Engineer** by:
 - ✅ Tuples
 - ✅ Sets
 - ✅ Dictionaries
-- 🔄 Functions (Next)
-- Object-Oriented Programming
+- ✅ Functions
+- ✅ Modules
+- 🔄 Object-Oriented Programming (Current)
 - File Handling
 - Exception Handling
 - NumPy
 - Pandas
 - Git & GitHub
+- VS Code
 - Linux Basics
 
 ---
 
-## 📌 Phase 1 – Machine Learning
+## 📌 Phase 1 — Machine Learning
 
 - Scikit-learn
 - Regression
@@ -58,7 +62,7 @@ Become a **Production-Ready AI Engineer** by:
 
 ---
 
-## 📌 Phase 2 – LLM Engineering
+## 📌 Phase 2 — LLM Engineering
 
 - OpenAI API
 - Google Gemini API
@@ -71,7 +75,7 @@ Become a **Production-Ready AI Engineer** by:
 
 ---
 
-## 📌 Phase 3 – RAG Engineering
+## 📌 Phase 3 — RAG Engineering
 
 - LangChain
 - LlamaIndex
@@ -83,12 +87,12 @@ Become a **Production-Ready AI Engineer** by:
 
 ---
 
-## 📌 Phase 4 – AI Agents & Production
+## 📌 Phase 4 — AI Agents & Production
 
 - Tool Calling
 - LangGraph
 - CrewAI
-- MCP
+- Model Context Protocol (MCP)
 - Multi-Agent Systems
 - Observability
 - Deployment
@@ -125,22 +129,22 @@ AI-Engineer-Roadmap/
 
 # 🛠️ Tech Stack
 
-### Programming
+## Programming
 
 - Python
 
-### Data Science
+## Data Science
 
 - NumPy
 - Pandas
 - Matplotlib
 
-### Machine Learning
+## Machine Learning
 
 - Scikit-learn
 - PyTorch
 
-### LLM Engineering
+## AI & LLM
 
 - OpenAI
 - Google Gemini
@@ -148,15 +152,16 @@ AI-Engineer-Roadmap/
 - Hugging Face
 - LangChain
 - LlamaIndex
+- LangGraph
 - ChromaDB
 - Pinecone
 
-### Backend
+## Backend
 
 - FastAPI
 - Docker
 
-### Tools
+## Tools
 
 - Git
 - GitHub
@@ -166,15 +171,15 @@ AI-Engineer-Roadmap/
 
 # 📅 Weekly Progress
 
-## ✅ Week 1 – Python Foundations
+## ✅ Week 1 — Python Foundations
 
-- [x] Day 1 – Python Basics
-- [x] Day 2 – Conditionals & Loops
-- [x] Day 3 – Lists, Tuples, Sets & Dictionaries
-- [ ] Day 4 – Functions & Modules
-- [ ] Day 5 – Object-Oriented Programming
-- [ ] Day 6 – File Handling & Exception Handling
-- [ ] Day 7 – CLI Calculator Project
+- [x] Day 1 — Python Basics
+- [x] Day 2 — Conditionals & Loops
+- [x] Day 3 — Lists, Tuples, Sets & Dictionaries
+- [x] Day 4 — Functions & Modules
+- [ ] Day 5 — Object-Oriented Programming
+- [ ] Day 6 — File Handling & Exception Handling
+- [ ] Day 7 — CLI Calculator Project
 
 ---
 
@@ -193,30 +198,54 @@ AI-Engineer-Roadmap/
 - Week 1 Day 1
 - Week 1 Day 2
 - Week 1 Day 3
+- Week 1 Day 4
 
-**Overall Progress:** **15% 🚀**
+**Overall Progress:** **20% 🚀**
 
 ---
 
-# 🚀 Portfolio Projects
+# 🏆 Portfolio Projects
 
-### Completed
+## ✅ Completed
 
-- ✅ CLI Calculator
-- ✅ Number Guessing Game
-- ✅ Student Database
-- ✅ Contact Book
+- CLI Calculator
+- Number Guessing Game
+- Student Database
+- Contact Book
+- Student Result System
+- Function-Based Calculator
 
-### Upcoming
+## 🚧 Upcoming
 
-- 📊 Dataset Explorer
-- 🏠 House Price Predictor
-- 🖼️ CNN Image Classifier
-- 🤖 AI Chatbot
-- 🔍 Semantic Search Engine
-- 📄 Document RAG
-- 🧠 Multi-Agent Research Assistant
-- ⚡ Custom MCP Server
+- Dataset Explorer
+- House Price Predictor
+- Image Classifier (CNN)
+- Multi-Provider AI Chatbot
+- Semantic Search Engine
+- Document RAG Application
+- Multi-Agent Research Assistant
+- Custom MCP Server
+
+---
+
+# 🏅 Achievements
+
+### Week 1 Progress
+
+- ✅ Python Basics
+- ✅ Variables & Data Types
+- ✅ Operators
+- ✅ Strings
+- ✅ Conditionals
+- ✅ Loops
+- ✅ Lists
+- ✅ Tuples
+- ✅ Sets
+- ✅ Dictionaries
+- ✅ Functions
+- ✅ Modules
+
+🔥 **Current Learning Streak:** 4 Days
 
 ---
 
@@ -237,7 +266,7 @@ AI-Engineer-Roadmap/
 - Learn by building projects
 - Write clean and readable code
 - Commit code every day
-- Focus on consistency
+- Focus on consistency over speed
 - Document everything
 - Build production-ready AI applications
 
@@ -245,24 +274,27 @@ AI-Engineer-Roadmap/
 
 # 🎯 Current Focus
 
-📌 **Week 1 – Day 4**
+## 📌 Week 1 — Day 5
 
-### Learning Next
+Next Topics:
 
-- Functions
-- Function Parameters
-- Return Values
-- Variable Scope
-- Modules
-- Import Statements
+- Classes
+- Objects
+- Constructors (`__init__`)
+- Instance Variables
+- Methods
+- Inheritance
+- Encapsulation
+- Polymorphism
 
 ---
 
 # 📊 Repository Status
 
 - 🚀 Active Development
-- 📅 Updated Daily
-- 💻 Beginner to Production AI Journey
+- 📅 Daily Commits
+- 💻 Beginner → Production AI Engineer Journey
+- 📂 Well-Organized Repository
 - ⭐ Open Source Learning Repository
 
 ---
@@ -281,7 +313,7 @@ AI-Engineer-Roadmap/
 
 If you find this repository helpful, consider giving it a **Star ⭐**.
 
-It motivates me to continue documenting my AI Engineering journey.
+Your support motivates me to continue documenting my journey from **Python Beginner** to **Production AI Engineer**.
 
 ---
 
