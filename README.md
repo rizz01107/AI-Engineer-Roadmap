@@ -38,8 +38,8 @@ Become a **Production-Ready AI Engineer** by:
 - ✅ Dictionaries
 - ✅ Functions
 - ✅ Modules
-- 🔄 Object-Oriented Programming (Current)
-- File Handling
+- ✅ Object-Oriented Programming
+- 🔄 File Handling (Current)
 - Exception Handling
 - NumPy
 - Pandas
@@ -177,7 +177,7 @@ AI-Engineer-Roadmap/
 - [x] Day 2 — Conditionals & Loops
 - [x] Day 3 — Lists, Tuples, Sets & Dictionaries
 - [x] Day 4 — Functions & Modules
-- [ ] Day 5 — Object-Oriented Programming
+- [x] Day 5 — Object-Oriented Programming
 - [ ] Day 6 — File Handling & Exception Handling
 - [ ] Day 7 — CLI Calculator Project
 
@@ -199,8 +199,9 @@ AI-Engineer-Roadmap/
 - Week 1 Day 2
 - Week 1 Day 3
 - Week 1 Day 4
+- Week 1 Day 5
 
-**Overall Progress:** **20% 🚀**
+**Overall Progress:** **25% 🚀**
 
 ---
 
@@ -214,6 +215,8 @@ AI-Engineer-Roadmap/
 - Contact Book
 - Student Result System
 - Function-Based Calculator
+- Bank Management System (OOP)
+- Library Management System (OOP)
 
 ## 🚧 Upcoming
 
@@ -236,16 +239,16 @@ AI-Engineer-Roadmap/
 - ✅ Variables & Data Types
 - ✅ Operators
 - ✅ Strings
-- ✅ Conditionals
-- ✅ Loops
+- ✅ Conditionals & Loops
 - ✅ Lists
 - ✅ Tuples
 - ✅ Sets
 - ✅ Dictionaries
 - ✅ Functions
 - ✅ Modules
+- ✅ Object-Oriented Programming
 
-🔥 **Current Learning Streak:** 4 Days
+🔥 **Current Learning Streak:** 5 Days
 
 ---
 
@@ -263,29 +266,30 @@ AI-Engineer-Roadmap/
 
 # 💡 Learning Principles
 
-- Learn by building projects
+- Learn by building real-world projects
 - Write clean and readable code
 - Commit code every day
 - Focus on consistency over speed
-- Document everything
+- Document everything you build
+- Follow software engineering best practices
 - Build production-ready AI applications
 
 ---
 
 # 🎯 Current Focus
 
-## 📌 Week 1 — Day 5
+## 📌 Week 1 — Day 6
 
-Next Topics:
+### Next Topics
 
-- Classes
-- Objects
-- Constructors (`__init__`)
-- Instance Variables
-- Methods
-- Inheritance
-- Encapsulation
-- Polymorphism
+- File Handling
+- Reading Files
+- Writing Files
+- Appending Files
+- CSV Files
+- Exception Handling
+- try / except / finally
+- Custom Exceptions
 
 ---
 
