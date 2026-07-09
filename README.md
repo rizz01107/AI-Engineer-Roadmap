@@ -39,8 +39,9 @@ Become a **Production-Ready AI Engineer** by:
 - ✅ Functions
 - ✅ Modules
 - ✅ Object-Oriented Programming
-- 🔄 File Handling (Current)
-- Exception Handling
+- ✅ File Handling
+- ✅ Exception Handling
+- 🔄 Week 1 Final Project (Current)
 - NumPy
 - Pandas
 - Git & GitHub
@@ -121,6 +122,7 @@ AI-Engineer-Roadmap/
 ├── Week_04/
 │
 ├── Projects/
+│   └── Student_Management_System/
 │
 └── Resources/
 ```
@@ -178,8 +180,8 @@ AI-Engineer-Roadmap/
 - [x] Day 3 — Lists, Tuples, Sets & Dictionaries
 - [x] Day 4 — Functions & Modules
 - [x] Day 5 — Object-Oriented Programming
-- [ ] Day 6 — File Handling & Exception Handling
-- [ ] Day 7 — CLI Calculator Project
+- [x] Day 6 — File Handling & Exception Handling
+- [x] Day 7 — Student Management System (CLI)
 
 ---
 
@@ -187,8 +189,8 @@ AI-Engineer-Roadmap/
 
 | Phase | Status |
 |--------|--------|
-| Python Fundamentals | 🟢 In Progress |
-| Machine Learning | ⚪ Not Started |
+| Python Fundamentals | ✅ Completed |
+| Machine Learning | 🔄 Starting Next |
 | LLM Engineering | ⚪ Not Started |
 | RAG Engineering | ⚪ Not Started |
 | AI Agents | ⚪ Not Started |
@@ -200,8 +202,10 @@ AI-Engineer-Roadmap/
 - Week 1 Day 3
 - Week 1 Day 4
 - Week 1 Day 5
+- Week 1 Day 6
+- Week 1 Day 7
 
-**Overall Progress:** **25% 🚀**
+**Overall Progress:** **35% 🚀**
 
 ---
 
@@ -217,11 +221,15 @@ AI-Engineer-Roadmap/
 - Function-Based Calculator
 - Bank Management System (OOP)
 - Library Management System (OOP)
+- Student File Management System
+- Expense Tracker
+- Student Management System (CLI)
 
 ## 🚧 Upcoming
 
 - Dataset Explorer
 - House Price Predictor
+- Machine Learning Pipeline
 - Image Classifier (CNN)
 - Multi-Provider AI Chatbot
 - Semantic Search Engine
@@ -233,22 +241,25 @@ AI-Engineer-Roadmap/
 
 # 🏅 Achievements
 
-### Week 1 Progress
+## ✅ Week 1 Completed
 
-- ✅ Python Basics
-- ✅ Variables & Data Types
-- ✅ Operators
-- ✅ Strings
-- ✅ Conditionals & Loops
-- ✅ Lists
-- ✅ Tuples
-- ✅ Sets
-- ✅ Dictionaries
-- ✅ Functions
-- ✅ Modules
-- ✅ Object-Oriented Programming
+- Python Basics
+- Variables & Data Types
+- Operators
+- Strings
+- Conditionals & Loops
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- Functions
+- Modules
+- Object-Oriented Programming
+- File Handling
+- Exception Handling
+- Student Management System Project
 
-🔥 **Current Learning Streak:** 5 Days
+🔥 **Current Learning Streak:** **7 Days**
 
 ---
 
@@ -267,7 +278,7 @@ AI-Engineer-Roadmap/
 # 💡 Learning Principles
 
 - Learn by building real-world projects
-- Write clean and readable code
+- Write clean and maintainable code
 - Commit code every day
 - Focus on consistency over speed
 - Document everything you build
@@ -278,18 +289,19 @@ AI-Engineer-Roadmap/
 
 # 🎯 Current Focus
 
-## 📌 Week 1 — Day 6
+## 📌 Week 2 — Python for Data Science
 
 ### Next Topics
 
-- File Handling
-- Reading Files
-- Writing Files
-- Appending Files
-- CSV Files
-- Exception Handling
-- try / except / finally
-- Custom Exceptions
+- NumPy Basics
+- NumPy Arrays
+- Array Operations
+- Indexing & Slicing
+- Pandas Basics
+- DataFrames
+- Data Cleaning
+- Data Analysis
+- Matplotlib Visualization
 
 ---
 
@@ -300,6 +312,18 @@ AI-Engineer-Roadmap/
 - 💻 Beginner → Production AI Engineer Journey
 - 📂 Well-Organized Repository
 - ⭐ Open Source Learning Repository
+
+---
+
+# 🛣️ Roadmap Progress
+
+| Phase | Progress |
+|--------|----------|
+| ✅ Phase 0 – Python Fundamentals | 100% |
+| ⏳ Phase 1 – Machine Learning | 0% |
+| ⏳ Phase 2 – LLM Engineering | 0% |
+| ⏳ Phase 3 – RAG Engineering | 0% |
+| ⏳ Phase 4 – AI Agents | 0% |
 
 ---
 
@@ -321,4 +345,29 @@ Your support motivates me to continue documenting my journey from **Python Begin
 
 ---
 
-## 🚀 Happy Coding!
+## 🚀 Week 1 Milestone Achieved
+
+✔️ 7 Days of Consistent Learning
+
+✔️ 30+ Python Programs
+
+✔️ 10+ Mini Projects
+
+✔️ 1 Complete CLI Application
+
+✔️ Strong Python Foundation for Machine Learning
+
+---
+
+## 🚀 Next Milestone
+
+📅 **Week 2 — Python for Data Science**
+
+- NumPy
+- Pandas
+- Matplotlib
+- Dataset Explorer Project
+
+---
+
+## 💻 Happy Coding! 🚀
